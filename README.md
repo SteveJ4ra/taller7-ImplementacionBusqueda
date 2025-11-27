@@ -14,9 +14,9 @@ Utilizar buenas prácticas: código limpio, pruebas, README y Git.
 src/
 └── main/java/
 ├── data.java
-│    └──citas.100
-│    └──
-│    └──
+│    └──citas_100.csv
+│    └──citas_100_casi_ordenados.csv
+│    └──citas_100_ordenados.csv
 │    └──
 ├── search.java
 │    └── ArraySearch
