@@ -6,8 +6,7 @@ Este proyecto implementa y compara tres algoritmos de ordenación in-place utili
 
 - El objetivo es implementar las variantes canónicas de búsqueda secuencial y búsqueda binaria en Java.
 - Validar con casos borde, y justificar cuándo aplicar cada método según la estructura de datos (arreglo vs SLL).
-
-Utilizar buenas prácticas: código limpio, pruebas, README y Git.
+  
 ---
 ## Arquitectura de las clases
 ```java
@@ -28,11 +27,8 @@ src/
 ---
 ## Como ejecutar el programa:
 
----
 
 ## Casos Bordes:
-
-
 
 ## Notas sobre Precondiciones:
 
