@@ -25,7 +25,6 @@ src/
     └──BuubleSort
 └── main.java
 ```
-SortingUtils.java: Utilidades auxiliares para imprimir arrays y validar ordenación
 ---
 ## Como ejecutar el programa:
 
