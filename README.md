@@ -14,15 +14,15 @@ Utilizar buenas prácticas: código limpio, pruebas, README y Git.
 src/
 └── main/java/
 ├── data.java
-    └──citas.100
-    └──
-    └──
-    └──
+│    └──citas.100
+│    └──
+│    └──
+│    └──
 ├── search.java
-    └── ArraySearch
-    └── SLLSearch
+│    └── ArraySearch
+│    └── SLLSearch
 ├── sorting.java
-    └──BuubleSort
+│    └──BuubleSort
 └── main.java
 ```
 ---
